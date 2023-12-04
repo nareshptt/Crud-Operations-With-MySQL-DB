@@ -1,0 +1,48 @@
+h1 {
+    color: blue;
+}
+
+.post {
+    background-color: bisque;
+    width: 300px;
+    border-radius: 4px;
+    padding: auto;
+
+}
+
+h3 {
+    color: green;
+}
+
+.form {
+    padding-left: 200px;
+    padding-bottom: 8px;
+}
+
+.content {
+    padding-left: 8px;
+}
+
+.user {
+    padding-left: 8px;
+    padding-top: 4px;
+}
+
+.a {
+    padding-left: 8px;
+    padding-top: 4px;
+    text-decoration: none;
+
+}
+
+.btn {
+    background-color: red;
+    color: white;
+}
+
+.c {
+    padding-bottom: 50px;
+    text-decoration: none;
+    padding-left: 8px;
+    padding-top: 4px;
+}
